@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Bakery</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
+    <string name="please_login_with_your_information">Please login with your information</string>
+    <string name="welcome">Welcome</string>
+    <string name="bakery_hub">BAKERY HUB</string>
+    <string name="house_icon" />
+    <string name="username">Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone number</string>
+    <string name="welcome_to_bakery_hub">Welcome to Bakery Hub</string>
+    <string name="insert_product">INSERT PRODUCT</string>
+    <string name="view_product_nupdate_product_ndelete_product">VIEW PRODUCT\nUPDATE PRODUCT\nDELETE PRODUCT</string>
+    <string name="hello_admin">HELLO ADMIN!</string>
+    <string name="Insert_Product">Insert Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="select_image">Select Image</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="to_update_search_a_product_by_name">To update search a product by name</string>
+    <string name="search">Search</string>
+    <string name="product_id">Product ID</string>
+    <string name="update_product">Update Product</string>
+    <string name="to_delete_search_a_product_by_name">To Delete search a product by name</string>
+    <string name="password_description">password_description</string>
+    <string name="email_address">Email Address</string>
+    <string name="email">Email</string>
+    <string name="image_description">image description</string>
+    <string-array name="food_categories">
+    <item>Cookies</item>
+    <item>Donuts</item>
+    <item>Cupcakes</item>
+    <item>Cakes</item>
+    </string-array>
+
+
+
+</resources>
